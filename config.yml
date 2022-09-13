@@ -1,4 +1,4 @@
-baseURL: http://wmazoni.github.io/blog/
+baseURL: /
 languageCode: en-us
 title: Bem-vindo ao meu blog
 theme: "PaperMod"
