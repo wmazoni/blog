@@ -1,4 +1,16 @@
 baseURL: /
-languageCode: en-us
-title: Bem-vindo ao meu blog
+languageCode: pt-br
+title: wmazoni
 theme: "PaperMod"
+params:
+    homeInfoParams:
+        Title: Wellington Mazoni
+        Content: Sou desenvolvedor de software, atualmente trabalho na CI&T. Gosto de falar sobre tecnologia, livros, músicas e séries.
+
+    socialIcons:
+        - name: "github"
+          url: "https://github.com/wmazoni"
+        - name: "email"
+          url: "mailto:wmazoni@protonmail.com"
+        - name: "linkedin"
+          url: "https://www.linkedin.com/in/wmazoni/"
