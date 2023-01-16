@@ -5,7 +5,7 @@ theme: "PaperMod"
 params:
     homeInfoParams:
         Title: Wellington Mazoni
-        Content: Sou desenvolvedor de software, atualmente trabalho na CI&T. Gosto de falar sobre tecnologia, livros, músicas e séries.
+        Content: Sou desenvolvedor de software, casado, pai e músico frustado. Gosto de falar sobre tecnologia, games, livros, músicas e animes.
 
     socialIcons:
         - name: "github"
